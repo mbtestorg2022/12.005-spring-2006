@@ -35,8 +35,45 @@ The grading criteria for the course is: 1/3 for homework; 1/6 for each of 2 in-c
 
 In a nutshell:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 33.3% |
-| Two In-class 1-hour Open-notes Mid-term Exams | 33.3% |
-| In-class 3-hour Open-notes Final Exam | 33.3%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+33.3%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two In-class 1-hour Open-notes Mid-term Exams
+{{< tdclose >}}
+{{< tdopen >}}
+33.3%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class 3-hour Open-notes Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+33.3%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
