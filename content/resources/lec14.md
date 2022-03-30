@@ -4,6 +4,7 @@ description: This resource provides information about finite strain, lagrangian 
   and eulerian equation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/08ab63411aec9ffb9f29da5944896cd4_lec14.pdf
 file_type: application/pdf
+parent_uid: 556c63fc-b90f-9c17-add0-463a86844cdb
 resourcetype: Document
 title: lec14.pdf
 uid: 08ab6341-1aec-9ffb-9f29-da5944896cd4

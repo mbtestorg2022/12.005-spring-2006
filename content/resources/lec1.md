@@ -4,6 +4,7 @@ description: This resource provides information about mechanics, continuum mecha
   continuity, homogeneity, isotropy, stress, strain and rotation and rheology.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/514aaf43891363920003616217ff27b0_lec1.pdf
 file_type: application/pdf
+parent_uid: 556c63fc-b90f-9c17-add0-463a86844cdb
 resourcetype: Document
 title: lec1.pdf
 uid: 514aaf43-8913-6392-0003-616217ff27b0
